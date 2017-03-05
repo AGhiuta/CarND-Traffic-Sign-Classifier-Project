@@ -157,7 +157,7 @@ The same goes for the 3rd image: there are several classes similar to this one (
 
 The 4th image might be difficult to classify because it is partially occluded. 
 
-The last image is not part of the dataset on which the model was trained, so, obviously it fails on classifying this one. It also was expected the model to be less confident in its predictions on this test case than on the other ones.
+The last image is not part of the dataset on which the model was trained, so it obviously fails on classifying this one. It was also expected the model to be less confident in its predictions on this test case than on the other ones.
 
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. Identify where in your code predictions were made. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
